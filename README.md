@@ -4,7 +4,7 @@
 
 //// Usage ////
 
-Takes an array as a parameter
+Takes an array as a parameter<n/>
 Function is case sensitive
 
 //// Funcionality ////
